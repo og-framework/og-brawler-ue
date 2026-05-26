@@ -1,0 +1,7 @@
+Binaries/
+Intermediate/
+.vs/
+*.user
+.cache/
+DerivedDataCache/
+Saved/

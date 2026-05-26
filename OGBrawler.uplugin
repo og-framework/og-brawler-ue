@@ -1,0 +1,15 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.1",
+  "FriendlyName": "OG Brawler",
+  "Description": "Open Game brawler-specific gameplay framework built on OGSimulation",
+  "Category": "Gameplay",
+  "EnabledByDefault": true,
+  "Plugins": [
+    { "Name": "OGSimulation", "Enabled": true }
+  ],
+  "Modules": [
+    { "Name": "OGBrawler", "Type": "Runtime", "LoadingPhase": "Default" }
+  ]
+}

@@ -1,0 +1,3 @@
+[submodule "extern/og-brawler"]
+	path = Source/OGBrawler/og-brawler
+	url = https://github.com/og-framework/og-brawler.git
